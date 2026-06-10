@@ -1,7 +1,7 @@
 import './styles.css';
 import { participants } from './participants.js';
 
-const root = document.getElementById('app');
+const root = document.getElementById('root');
 
 let search = '';
 let filter = 'All';
