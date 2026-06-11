@@ -1,6 +1,6 @@
 # Product Sandbox
 
-A week 1 practice repository for Detroit Hacker House interns.
+A fullstack JavaScript practice repository for product-style workflow and UI development.
 
 This repo is intentionally separate from production so you can practice the full workflow safely:
 
