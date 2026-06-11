@@ -20,6 +20,9 @@ Each intern must complete this project independently and submit their own PR.
 ### Project goal
 Build a small participant operations dashboard using mock data.
 
+### Important note
+This repository includes scaffold code and starter data only. You are expected to implement the required features yourself.
+
 ### Required features
 - Display a list of participants
 - Show at least 3 statuses using badges
@@ -98,10 +101,10 @@ npm run dev
 
 ## Starter structure
 
-- `src/data/participants.js` contains mock participant data
-- `src/components/StatusBadge.jsx` renders statuses
-- `src/components/ParticipantCard.jsx` renders each participant
-- `src/App.jsx` contains the dashboard page
+- `src/participants.js` contains mock participant data
+- `src/starter.js` is the scaffold entrypoint you will extend
+- `src/styles.css` contains starter styles
+- `src/main.jsx` points the app to the scaffold entrypoint
 
 ## Working agreement
 
